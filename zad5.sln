@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad5", "Assembly-CSharp-firstpass.csproj", "{97F4A461-569D-397E-D387-4E7FAF5A26DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad5", "Assembly-CSharp.csproj", "{D905D390-BA98-ECD0-9A1A-67EEEB688F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad5", "Assembly-CSharp-Editor.csproj", "{315BEC74-38A0-3E80-C59B-F1B0B61EAC20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F4A461-569D-397E-D387-4E7FAF5A26DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F4A461-569D-397E-D387-4E7FAF5A26DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F4A461-569D-397E-D387-4E7FAF5A26DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F4A461-569D-397E-D387-4E7FAF5A26DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D905D390-BA98-ECD0-9A1A-67EEEB688F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D905D390-BA98-ECD0-9A1A-67EEEB688F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D905D390-BA98-ECD0-9A1A-67EEEB688F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D905D390-BA98-ECD0-9A1A-67EEEB688F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315BEC74-38A0-3E80-C59B-F1B0B61EAC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315BEC74-38A0-3E80-C59B-F1B0B61EAC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315BEC74-38A0-3E80-C59B-F1B0B61EAC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315BEC74-38A0-3E80-C59B-F1B0B61EAC20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
